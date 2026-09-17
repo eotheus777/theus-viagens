@@ -1,0 +1,83 @@
+h2 {
+    color: blue;
+} body {
+    background-color: rgb(4, 35, 211);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   
+} header {
+    background-color: rgb(4, 35, 211);
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    text-align: center;
+    background-image: url("../img/aa.jpg");
+} nav {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+} section {
+    margin: 20px;
+} article {
+    border: 4px double rgb(21, 7, 218);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgb(4, 35, 211);
+} button {
+    background-color: rgb(4, 35, 211);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+}
+.pacotes {
+    background-color: rgb(24, 112, 178);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+} form {
+    background-color: rgb(24, 112, 178);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+} input {
+    padding: 10px;
+    margin: 10px;
+    border: 10px solid rgb(4, 35, 211);
+} textarea {
+    padding: 10px;
+    border: 10px solid rgb(4, 35, 211);
+    border-radius: 10px;
+} table {
+    width: 80%;
+    border-color: blue;
+     align-content: center;
+    margin: 0 auto;
+} th {
+    background-color: rgb(4, 35, 211);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+} td {
+    background-color: rgb(24, 112, 178);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+.fg {
+    color: rgb(255, 255, 255);
+    padding: 2%;
+}
+.tx {
+    color: rgb(4, 35, 211);
+}
+.f {
+    color: rgb(4, 35, 211);
+}
+.g {
+    color: rgb(4, 35, 211);
+    text-align: center;
+    
+}
+.x {
+    color: rgb(255, 255, 255);
+}
+.z {
+    color: rgb(4, 35, 211);
+}
